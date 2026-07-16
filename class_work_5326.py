@@ -61,6 +61,51 @@
 
 
 
+    # score = []
+
+# for i in range(5):
+#     student = int(input("enter a number"))
+#     score.append(student)
+
+# def cal(score):
+#     total = sum(score)
+#     avg = total/len(score)
+#     return total,avg
+
+# total,avg = cal(score)
+
+# print("score:",score[0],score[1],score[2],score[3],score[4])
+
+# print("total:",total)
+
+# print("avg:",avg)
+
+
+
+
+
+
+# tasks = []
+
+# while True:
+#     taskss = input("\n1.add task\n2.show task\n3 remove task \n4 exit")
+
+#     if taskss == "1":
+#         add = input("what task do you like to add ")
+#         tasks.append(add)
+
+#     elif taskss == "2":
+#         print(tasks)
+
+#     elif taskss == "3":
+#         print(taskss)
+#         summer = input("which do you want to remove in number")
+#         tasks.remove(summer)
+
+#     elif taskss == "4":
+#         print("code exit")
+#         break
+
 
 
 
