@@ -112,6 +112,59 @@
 
 
 
+# import random
+
+
+# # rock = []
+
+# # for i in range(5):
+# #     stone = int(input("enter a number"))
+# #     rock.append(stone)
+
+# # rock.sort()
+    
+# # print(rock)
+# # print("the lowest number is:", rock[0])
+# # print("the highest number is: ", rock[-1])
+# # sort = int(input("what number you want to check"))
+# # print("count",rock.count(sort))
+
+
+
+# off = int(input("what number do you like"))
+# ice = int(input("what number you like"))
+# number = int(input("\n1+\n2-\n3*\n4/"))
+
+# if number == 1:
+#     add = off + ice
+#     print(add)
+
+# elif number == 2:
+#     sub = off - ice
+#     print(sub)
+
+# elif number == 3:
+#     mul = off * ice
+#     print(mul)
+    
+# else:
+#     div = off / ice
+#     print(div)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
