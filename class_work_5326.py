@@ -166,7 +166,33 @@
 
 
 
+# cart = []
 
+# while True:
+#     print("1(Add) 2(remove) 3(Show) 4(Exit)")
+#     choice = input("Choose")
+
+#     if choice == "1":
+#         add = input("Add item name??")
+#         price = int(input("What item price"))
+#         cart.append([add ,price])
+       
+        
+
+#     elif choice == "2":
+#         name = input("item to remove")
+#         for item in cart:
+#             if item[0] == name:
+#                 cart.remove(item)
+        
+#     elif choice == "3":
+#         total = 0
+#         for item in cart:
+#             total += item[1]
+#         print("Total:",total)
+
+#     elif choice == "4":
+#         break
 
 
 
