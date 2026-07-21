@@ -233,9 +233,59 @@
 
 
 
+# class rock:
+#     def __init__(self, age, weight, name):
+#         self.name = name
+#         self.age = age
+#         self.weight = weight
+#     def intro(self):
+#         print(f"my name is {self.name} and i m weight {self.weight} :D")
+#     def show_age(self):
+#         print(f"I m {self.age} year old")
+
+# rockk = rock("180", "100T" , "Rob The rock")
+# rockk.intro()
+# rockk.show_age()
+
+
+# class game:
+#     def __init__(self, difficulty, name, year):
+#         self.difficulty = difficulty
+#         self.year = year
+#         self.name = name
+#     def intro(self):
+#         print(f"my game is name {self.name} and game difficulty {self.difficulty}")
+#     def show_year(self):
+#         print(f"my game is {self.year} old")
+# gamme = game("hardcore", "egg rng", "one day")
+# gamme.intro()
+# gamme.show_year()
+        
+
+# class ID:
+#     def __init__(self, ID_number, name, grade):
+#         self.ID_number = ID_number
+#         self.name = name
+#         self.grade = grade
+#     def intro(self):
+#             print(f"my ID_number is {self.ID_number} and im in {self.grade}")
+#     def show_name(self):
+#         print(f"my name is {self.name}")
+# IDD = ID("394-382-846", "gus", "6th grade")
+# IDD.intro()
+# IDD.show_name()
 
 
 
+
+
+
+
+
+
+
+
+    
 
 
 
